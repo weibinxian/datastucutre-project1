@@ -1,0 +1,15 @@
+plz enter a  number of your lines:  3
+plz enter a line of words : you
+plz enter a line of words : are
+plz enter a line of words : the
+Here the line that's being enter : (you , are , the)
+Here are the size of the line that had enter : (3 , 3 , 3)
+======================================================
+plz enter an other number for the second loop : 3
+plz enter a new word for second line : app 
+plz enter a new word for second line : ple
+plz enter a new word for second line : eye
+ Here are the size of the line that had enter : (3 , 3 , 3)
+====================================================
+Here's the new first set of elements : (you , are , the)
+(3 , 3 , 3 , 3 , 3 , 3)
